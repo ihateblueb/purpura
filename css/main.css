@@ -11,6 +11,11 @@
     --font-headline: "Commissioner", sans-serif;
 }
 
+.newMessagesBar-1hF-9G {
+    margin-top: 5px;
+    border-radius: var(--br-2);
+}
+
 .container-2qVG6q.mainCard-3KBsBI, .container-2_J666 .wrapper-2O6Aho, .mainCard-3KBsBI.header-1Uy0p6 {
     border: solid 2px var(--background-accent);
     border-radius: var(--br-1);
