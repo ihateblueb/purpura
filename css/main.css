@@ -11,6 +11,38 @@
     --font-headline: "Commissioner", sans-serif;
 }
 
+.connectionHeader-Ixbb1s {
+    background: transparent;
+}
+
+.connectContainer-1hylYM {
+    background-color: var(--background-secondary);
+}
+
+.dropCriteria-UN2xbq {
+    background-color: var(--background-secondary);
+}
+
+.dropContainer-2rTNFx {
+    border-radius: var(--br-1);
+}
+
+.codeRedemptionRedirect-2hYMSQ {
+    background-color: var(--background-secondary)!important;
+}
+
+.autocomplete-3NRXG8 {
+    background-color: var(--background-secondary)!Important;
+}
+
+.categoryHeader-OpJ1Ly {
+    background-color: transparent;
+}
+
+.base-2v-uc0 {
+    border-radius: var(--br-2);
+}
+
 .newMessagesBar-1hF-9G {
     margin-top: 5px;
     border-radius: var(--br-2);
