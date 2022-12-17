@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;500;600;700;800;900&family=Fira+Code:wght@300;400;500;600;700&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
 
-:root {
+:root, .theme-dark, .theme-light, * {
     --br-1: 10px;
     --br-2: 7px;
     --br-3: 5px;
@@ -25,12 +25,12 @@
     --interactive-hover: #dcddde!important;
     --interactive-active: #fff!important;
     --interactive-muted: #4f545c!important;
-    --background-primary: #15131a!important;
-    --background-secondary: #121016!important;
+    --background-primary: #17151d!important;
+    --background-secondary: #131116!important;
     --background-secondary-alt: #0e0c11!important;
-    --background-tertiary: #08070a!important;
+    --background-tertiary: #100e14!important;
     --background-accent: #24212c!important;
-    --background-floating: #1b171b81!important;
+    --background-floating: #1b181d!important;
     --background-mobile-primary: #08070a!important;
     --background-mobile-secondary: #08070a!important;
     --background-modifier-hover: #31323942!important;
@@ -47,9 +47,9 @@
     --scrollbar-thin-thumb: #202225!important;
     --scrollbar-thin-track: transparent!important;
     --scrollbar-auto-thumb: #202225!important;
-    --scrollbar-auto-track: hsl(210,calc(var(--saturation-factor, 1)*9.8%),20%)!important;
+    --scrollbar-auto-track: transparent!important;
     --scrollbar-auto-scrollbar-color-thumb: #202225!important;
-    --scrollbar-auto-scrollbar-color-track: #15131a!important;
+    --scrollbar-auto-scrollbar-color-track: transparent!important;
     --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15)!important;
     --elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05)!important;
     --elevation-medium: 0 4px 4px rgba(0,0,0,0.16)!important;
@@ -74,10 +74,37 @@
     --deprecated-text-input-border-hover: #040405!important;
     --deprecated-text-input-border-disabled: #202225!important;
     --deprecated-text-input-prefix: #dcddde!important;
+
+    --button-secondary-background: var(--background-accent);
+    --button-secondary-background-hover: #373242;
+    --channeltextarea-background: var(--background-accent);
+
+    --input-background: var(--background-accent);
+}
+
+.container-2qVG6q.mainCard-3KBsBI, .container-2_J666 .wrapper-2O6Aho, .mainCard-3KBsBI.header-1Uy0p6 {
+    border: solid 2px var(--background-accent);
+    border-radius: var(--br-1);
+}
+
+.container-3wLKDe {
+    background-color: var(--background-primary)!important;
+}
+
+.layer-1Ixpg3, .wrapper-3ByaVZ, .focusLock-2tveLW, .modal-atz_3z, .root-g14mjS, .footer-1hTRRZ {
+    border-color: var(--background-primary)!important;
+}
+
+.perksModal-CLcR1c {
+    background-color: var(--background-primary);
 }
 
 .tier2HeaderBackgroundWinterTheme-Mqc76o {
     border-radius: var(--br-1) var(--br-1) 0px 0px;
+}
+
+.welcomeCTA-3GMMRK:hover .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
+    background-color: var(--button-secondary-background-hover);
 }
 
 .messagesPopoutWrap-3zryHW {
