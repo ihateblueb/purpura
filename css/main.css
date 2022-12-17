@@ -270,3 +270,79 @@ button.searchBar-3TnChZ.searchBarComponent-3N7dCG {
  .privateChannels-oVe7HL, .header-3OsQeK, .container-1-ERn5, .container-1NXEtd, .sidebar-1tnWFu {
     border-top-left-radius: var(--br-1);
 }
+
+.container-1PloNW {
+    border: solid 2px var(--background-accent);
+    border-radius: var(--br-1);
+}
+
+.contentPreview-3fWiuC {
+    border-radius: var(--br-2);
+}
+
+.imageWrapper-oMkQl4 {
+    border-radius: var(--br-3);
+}
+
+.topGuildEmojiBadge-3DiG2v {
+    border-radius: var(-br-2);
+}
+
+.gameIcon-1siQqm {
+    border-radius: var(--br-3);
+}
+
+.contentRegion-3HkfJJ { 
+    background-color: var(--background-tertiary);
+}
+
+.standardSidebarView-E9Pc3j, .contentTransitionWrap-1YD530, .contentTransitionWrap-1YD530, .sidebarRegionScroller-FXiQOh {
+    background-color: var(--background-tertiary)!important;
+}
+
+.customScroller-m1-jZn, .customContainer-dK1ozq, .contentRegionShownSidebar-fHXkEg, .contentColumn-1C7as6, .customColumn-2n-oKU, .contentTransitionWrap-1YD530, .contentColumn-1C7as6, .contentColumnDefault-3eyv5o {
+    border-top-left-radius: var(--br-1)!important;
+    background-color: var(--background-secondary-alt)!important;
+}
+
+header, .header-3OsQeK, .sidebar-1tnWFu, .searchBar-3TnChZ, .privateChannels-oVe7HL, .bannerImg-2PzH6z {
+    border-radius: var(--br-1) var(--br-1) 0px 0px!important;
+}
+
+main.container-2cd8Mz {
+    border-radius: var(--br-1) var(--br-1) 0px 0px;
+}
+
+.itemCard-3Etziu {
+    border-color: var(--background-secondary);
+}
+
+.addGamePopout-2SKNIV {
+    border-radius: var(--br-2);
+    border-color: transparent;
+    background-color: var(--background-secondary)!important;
+}
+
+.activeGame-1OdxzI {
+    border-radius: var(--br-2);
+}
+
+.grabber-2GQyvM {
+    border-radius: var(--br-3);
+}
+
+.item-3XjbnG.selected-g-kMVV.themed-2-lozF {
+    background-color: var(--background-secondary)!important;
+}
+
+.item-3XjbnG.themed-2-lozF:hover {
+    background-color: var(--background-secondary-alt)!important;
+}
+
+.background-Gjdjzm {
+    border-radius: var(--br-2);
+}
+
+.titleElevated-eN3exl, .stickyHeader-1Sunlx {
+    background-color: var(--background-secondary-alt);
+}
