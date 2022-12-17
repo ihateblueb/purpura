@@ -68,6 +68,10 @@
     margin-right: var(--p-1);
 }
 
+.background-fkKrXt {
+    background-color: var(--background-secondary)!important;
+}
+
 .container-YkUktl {
     background-color: var(--background-secondary);
     box-shadow: -5px -10px 10px var(--background-secondary);
