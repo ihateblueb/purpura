@@ -784,3 +784,111 @@ button[aria-label="Open GIF picker"] {
       height: 22px;
       display: block;
   }
+
+.unread-36eUEm {
+    margin-left: 5px;
+    border-radius: var(--br-1);
+}
+
+.channelTextArea-1FufC0.channelTextArea-1VQBuV .scrollableContainer-15eg7h {
+    background: var(--background-primary);
+    border: solid 2px var(--background-accent);
+}
+
+.root-2s1-ri>:last-child {
+    background-color: var(--background-primary);
+    border-radius: 0px 0px var(--br-1) var(--br-1);
+}
+
+.root-2s1-ri {
+    border-radius: var(--br-1);
+}
+
+.spriteCanvas-1GzFop, .modalHeader-gQTY3L {
+    border-radius: var(--br-1) var(--br-1) 0px 0px!important;
+}
+
+.unreadBar-elBRZx, .tooltip-14MtrL {
+    border-radius: var(--br-1);
+}
+
+.tooltip-14MtrL {
+    background-color: var(--background-primary);
+    border: solid 1px var(--background-accent);
+}
+
+.tooltipPointer-3L49xb {
+    display: none;
+}
+
+.downloadLink-1OAglv {
+    font-family: var(--font-display);
+}
+
+.profilePanel-2PWEok .userPanelInnerThemed-2xZFjl .scrollerBase-_bVAAt {
+    margin: 8px;
+    border-radius: var(--br-1)!important;
+}
+
+.modal-3Crloo .wrapper-2bCXfR .imageWrapper-oMkQl4 {
+    animation-name: popin;
+    animation-duration: 0.35s;
+}
+
+.imageWrapper-oMkQl4 {
+    border-radius: var(--br-3);
+}
+
+.pill-2RsI5Q .item-2LIpTv {
+    border-radius: 10px!important;
+    margin-left: 2px;
+    width: 4px;
+}
+
+.blockquoteDivider-363utW {
+    background-color: var(--background-accent);
+}
+
+.content-3spvdd {
+    font-family: var(--font-display);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.group-spacing-16 .divider-IqmEqJ.hasContent-1y12-u {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#floating-editor-window {
+    border-radius: var(--br-1);
+    border: solid 1px var(--background-accent);
+}
+
+.item-3XjbnG.selected-g-kMVV.themed-2-lozF, .item-3XjbnG.themed-2-lozF:hover {
+    background-color: transparent!important;
+}
+
+.perksModal-CLcR1c {
+    background-color: var(--background-primary)!Important;
+}
+
+.perk-19D_HN {
+    background-color: var(--background-secondary)!Important;
+}
+
+.footer-31IekZ, .modalFooter-2XY3GW {
+    background-color: var(--background-primary)!Important;
+}
+
+.inviteBannerUpsell-1t_LYM {
+    border-radius: var(--br-2);
+}
+
+*[type="button"] {
+    border-radius: var(--br-2);
+}
+
+.result-u66Ywh {
+    transition: 0.2s;
+}
