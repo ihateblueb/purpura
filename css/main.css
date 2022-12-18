@@ -27,6 +27,44 @@
 
 /*  --------  */
 
+.wordmarkWindows-2dq6rw svg {
+    display:none;
+}
+
+.wordmarkWindows-2dq6rw::before {
+    display: inline-block;
+    content: "Discord";
+    font-size: 12px;
+    font-weight: 750;
+    letter-spacing: 0.25px;
+    padding: 2px;
+    font-family: var(--font-display);
+}
+
+.wordmarkWindows-2dq6rw::after {
+    display: inline-block;
+    content: "Purpura";
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.25px;
+    padding: 2px;
+    font-family: var(--font-display);
+}
+
+.barBase-3xxDXu {
+    border-radius: var(--br-1)!important;
+    margin-bottom: 12px;
+    padding-bottom: 3px;
+}
+
+.container-2cd8Mz {
+    margin-right: var(--br-1)!important;
+}
+
+.selected-g-kMVV {
+    font-weight: 600;
+}
+
 .panels-3wFtMD {
     padding: 3px;
     background-color: var(--background-secondary);
