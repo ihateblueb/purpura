@@ -27,6 +27,11 @@
 
 /*  --------  */
 
+.panels-3wFtMD {
+    padding: 3px;
+    background-color: var(--background-secondary);
+}
+
 #floating-editor-window, .floating-window {
     z-index: 99999!important;
 }
