@@ -27,6 +27,14 @@
 
 /*  --------  */
 
+.messageContent-2t3eCI:hover .timestamp-p1Df1m {
+    opacity: 100!important;
+}
+
+.messageContent-2t3eCI .timestamp-p1Df1m {
+    opacity: 0!important;
+}
+
 .wordmarkWindows-2dq6rw svg {
     display:none;
 }
