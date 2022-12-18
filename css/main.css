@@ -89,7 +89,7 @@
 .input-3r5zZY {
     border-radius: var(--br-1);
     text-align: center;
-    font-family: var(--font-display);
+    font-family: var(--font-display)!important;
 }
 
 .quickswitcher-pKcM9U {
