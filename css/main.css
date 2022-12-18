@@ -11,6 +11,72 @@
     --font-headline: "Commissioner", sans-serif;
 }
 
+/*  Animations  */
+
+@keyframes popin {
+    0% {
+        transform: scale(0.3);
+    }
+    70% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+/*  --------  */
+
+#floating-editor-window, .floating-window {
+    z-index: 99999!important;
+}
+
+.controlButton-2PMNom {
+    border-radius: 100px!important;
+}
+
+.input-3r5zZY {
+    border-radius: var(--br-1);
+    text-align: center;
+    font-family: var(--font-display);
+}
+
+.quickswitcher-pKcM9U {
+    font-family: var(--font-display);
+    animation-name: popin;
+    animation-duration: 0.3s;
+}
+
+.root-g14mjS {
+    animation-name: popin;
+    animation-duration: 0.3s;
+}
+
+.menu-1QACrS {
+    animation-name: popin;
+    animation-duration: 0.2s;
+}
+
+.searchBar-3TnChZ, .searchBarComponent-3N7dCG {
+    text-align: center!important;
+    font-family: var(--font-display);
+}
+
+.result-u66Ywh, .guildIconContainer-14mmC9 .icon-1zKOXL {
+    border-radius: var(--br-2)!important;
+}
+
+.messagesPopout-eVzQcI .messageGroupWrapper-1jf_7C {
+    border-radius: var(--br-2);
+    border: none;
+}
+
+.footer-1hTRRZ {
+    background-color: var(--background-primary)!important;
+}
+
+
+
 .connectionHeader-Ixbb1s {
     background: transparent;
 }
