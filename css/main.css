@@ -951,3 +951,33 @@ button[aria-label="Open GIF picker"] {
 .result-u66Ywh {
     transition: 0.2s;
 }
+
+.controlButton-2PMNom { border-radius: 100px!important; }
+
+html.platform-linux .container-1eFtFS { padding-top: 10px; }
+
+.applicationStore-2nk7Lo { margin-right: 10px!important; border-top-left-radius: 10px; border-top-right-radius: 10px; }
+
+.inputDefault-Ciwd-S.input-3O04eu { border-radius: 7px; }
+
+.colorable-3rVGna.primaryDark-2UJt1G { background-color: var(--background-accent); }
+
+.theme-dark .quickSelectPopout-2F0PXw { border-radius: 7px; background-color: var(--background-accent); }
+
+.quickSelectPopoutOption-2E2UmS { margin: 5px; border-radius: 5px; }
+
+.quickSelectLabel-ArUyd9 { line-height: 15px; }
+
+.input-3O04eu { border-radius: 10px; }
+
+.contentRegion-3HkfJJ { margin-top: 10px; }
+
+.item-2LIpTv { margin-left: 2px; width: 4px; border-radius: 10px; }
+
+.card-m7VgZ8 { border-radius: 7px; }
+
+.pictureInPictureWindow-3ms5Zy { border-radius: 10px; }
+
+.icon-39rdLt { font-family: var(--font-primary)!important; }
+
+.textContentFooter-2JnNv8 { background: linear-gradient(0deg,hsl(var(--background-primary)/.97) 36px,hsl(var(--backgrund-primary)/.4))!important; }
